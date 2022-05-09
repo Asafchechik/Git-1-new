@@ -1,8 +1,5 @@
-2022-05-09 16:50:11.791994,Paper,Scissor,Player Win
-2022-05-09 16:50:14.187594,Paper,Paper,Match Draw
-2022-05-09 16:50:16.844390,Rock,Rock,Match Draw
-2022-05-09 16:51:31.474114,Scissor,Scissor,Match Draw
-2022-05-09 16:51:33.772612,Paper,Paper,Match Draw
-2022-05-09 16:51:35.557983,Paper,Rock,Computer Win
-2022-05-09 16:51:37.187532,Scissor,Scissor,Match Draw
-2022-05-09 16:51:38.831348,Rock,Paper,Player Win
+datetime,computer,player,who won
+Rock,Paper,Player
+2022-05-09 17:27:21.096596,Rock,Scissor,Computer Win
+2022-05-09 17:27:23.088981,Rock,Paper,Player Win
+2022-05-09 17:27:24.841210,Scissor,Rock,Player Win
